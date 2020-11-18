@@ -1,0 +1,1 @@
+Array: un array es un conjunto de elementos cada uno en una posición especifica del mismo.
