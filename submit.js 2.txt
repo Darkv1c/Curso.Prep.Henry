@@ -1,0 +1,7 @@
+Solución 
+
+1. 	variables: es el lugar donde se guarda un dato, de tal forma que luego se puesa usar o modificar.
+	strings: es un tipo de dato, las variables de este tipo almacenan informacion de tipo texto, "palabras" por decirlo de algun modo-
+	Funciones: es una sección del codigo con una funcion especifica y que tiende a repetirse, evitan repetir constantemente las mismas lineas de codigo
+	IF: es una expresion condicional, realiza o no una acción dependiendo del resultado de su condicion, se podria leer como: " si...(condición)... entonces... (acción)"
+	valores booleanos: es un tipo de dato binario cuyos unicos valores posibles son verdadero (true) o falso (false)
