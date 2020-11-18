@@ -1,0 +1,5 @@
+1.	for : sirve para repetir todas las instrucciones dentro de él hasta que se cumpla una condicion o se rompa el ciclo.
+	&&, ||, !: son operaciones logicas
+		&&: a && b será verdad solo si a y b son verdad.
+		||: a || b (a o b) será verdad solo si una de las dos o ambas son verdad.
+		!: negación, si a es verdad entonces !a será falso.
