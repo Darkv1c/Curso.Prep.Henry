@@ -1,0 +1,5 @@
+Objetos: es una colección de propiedades:
+propiedades: así como en el mundo real un objeto tiene carateristicas como: color, tamaño, olor, etc en programacion estas caracteristicas se pueden abstraer y se conocen como propiedades.
+metodos: son secciones de codigo que se pueden reutilizar solamente llamando al "nombre" de esa sección.
+bucle for in: repite la sección de codigo dentro de él continuamente hasta que termine de recorrer objeto: for (variable  in objeto)
+notacion de punto vs notacion de corchetes: aunque en principio cumplen la misma función, la notación de corchetes da mas versatilidad, ya que permite introducir caracteres especiales que la notación de punto no permite, por ejempño el espacio, ademas de permitir llamar propiedades y metodos de forma indirecta a través de un parametro de referencia. 
