@@ -1,0 +1,2 @@
+prototype: es el molde desde el que se crea un objeto, todo objeto tendrá en principio las misma propiedades que su prototype
+constructor: es una funcion de la clase que inicializa o crea un objeto
